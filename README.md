@@ -6,9 +6,5 @@
 <li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on machine learning/AI projects :D</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Can reach me anytime at <a href="mailto:adrian.ramos@iteso.mx">adrian.ramos@iteso.mx</a></li>
 </ul>
-
 </article>
-  </div>
-
-    </div>
-
+</div>
